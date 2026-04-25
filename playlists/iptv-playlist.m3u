@@ -1,0 +1,51 @@
+#EXTM3U
+
+# Amagi / Rakuten channels
+#EXTINF:-1,tvg-name="Yu-Gi-Oh! 3 IT" group-title="Rakuten / Amagi",Yu-Gi-Oh! 3 IT (Rakuten IT)
+https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
+#EXTINF:-1,tvg-name="Yu-Gi-Oh! 2 EN" group-title="Rakuten / Amagi",Yu-Gi-Oh! 2 EN (Rakuten GB)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1,tvg-name="Brat" group-title="Rakuten / Amagi",Brat Samsung US
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="Bon Appetit" group-title="Rakuten / Amagi",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="Tastemade" group-title="Rakuten / Amagi",Tastemade
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="Mr Bean Pop-Up" group-title="Rakuten / Amagi",Mr. Bean Pop-Up Channel
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+# Sofast streams
+#EXTINF:-1,tvg-name="Sofast Stream 1" group-title="Sofast",Sofast Stream 1
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1,tvg-name="Sofast Stream 2" group-title="Sofast",Sofast Stream 2
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+
+# jmp2.uk anonymous streams
+#EXTINF:-1,tvg-name="jmp2.uk Channel 1" group-title="jmp2.uk",jmp2.uk Channel 1
+https://jmp2.uk/plu-6093f6f8351eb0000754afb8.m3u8
+#EXTINF:-1,tvg-name="jmp2.uk Channel 2" group-title="jmp2.uk",jmp2.uk Channel 2
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+#EXTINF:-1,tvg-name="jmp2.uk Channel 3" group-title="jmp2.uk",jmp2.uk Channel 3
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:-1,tvg-name="jmp2.uk Channel 4" group-title="jmp2.uk",jmp2.uk Channel 4
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:-1,tvg-name="jmp2.uk Channel 5" group-title="jmp2.uk",jmp2.uk Channel 5
+https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
+#EXTINF:-1,tvg-name="jmp2.uk Channel 6" group-title="jmp2.uk",jmp2.uk Channel 6
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+
+# Other public streams
+#EXTINF:-1,tvg-name="GIA TV" group-title="General",GIA TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1,tvg-name="RAI Uno" group-title="General",RAI Uno
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1,tvg-name="SUPER Main" group-title="General",SUPER Main HBBTV
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1,tvg-name="BalkanWeb News24" group-title="General",BalkanWeb News24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1,tvg-name="Junior TV" group-title="General",Junior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1,tvg-name="Tring Live" group-title="General",Tring Live Delta 105
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1,tvg-name="CNA TV" group-title="General",CNA TV
+https://live1.mediadesk.al/cnatvlive.m3u8
